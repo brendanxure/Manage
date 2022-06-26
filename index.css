@@ -1,0 +1,118 @@
+.bren {
+    display: grid;
+    height: 100%;
+    
+}
+.xure {
+    height: 80px;
+    background-color: white;
+}
+.xure1 {
+    display: grid;
+    width: 85%;
+    justify-content: space-evenly;
+    padding-right: 10%;
+}
+.topbutton {
+    width: 20%;
+    padding-right: 9%;
+}
+.getstatbut1 {
+    border-radius: 40px;
+    background-color: hsl(12, 88%, 59%);
+    height: 7%;
+    width: 20%;
+    font-size: 100%;
+    border-style: none;
+}
+.illustration {
+    height: 90%;
+    width: 110%;
+    padding-right: 10%;
+}
+.writings {
+    font-size: 370%;
+    color: hsl(228, 39%, 23%);
+}
+.writing2 {
+    font-size: 110%;
+}
+.columate {
+    /* height: 500px; */
+}
+.listing {
+    display: flex;
+    padding-left: 8%;
+}
+.thenumbers {
+    background: hsl(12, 88%, 59%);
+    border-radius: 40px;
+    height: 7%;
+    width: 13%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    padding-top: 1%;
+}
+.briefs {
+    padding-left: 8%;
+}
+.briefheader {
+    color: hsl(228, 39%, 23%);
+}
+.motivation {
+    text-align: center;
+    font-size: 80%;
+}
+.getstatbutdiv {
+    display: grid;
+    justify-items: center;
+    padding: 0.5%;
+    border-radius: 40px;
+    background-color: hsl(12, 88%, 59%);
+    border-style: none;
+}
+.simplify {
+    display: flex;
+    justify-content: space-around;
+    background: hsl(12, 88%, 59%);
+    align-items: center;
+    padding: 3%;
+    font-size: larger;
+}
+.simplify2 {
+    display: flex;
+    padding-right: 20%;
+    color: white;
+}
+.lastbutton {
+    width: 120%;
+    border-radius: 40px;
+    border-style: none;
+    padding: 0.5%;
+    background: white;
+}
+.thelinks {
+    display: flex;
+    flex-direction: column;
+    line-height: 200%;
+    padding-top: 2%; 
+}
+.thelinks2 :hover {
+    color: hsl(12, 88%, 59%);
+}
+.footerlogosec {
+    line-height: 500%;
+    color: white;
+}
+.blackfooter {
+    display: grid;
+    align-items: center;
+    padding: 3%;
+}
+.thelinks2 {
+    text-decoration: none;
+}
+.searchfooter {
+    padding-top: 10%;
+}
